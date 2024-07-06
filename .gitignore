@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!sounds/
+!sounds/**
+!.gitignore
+!install.sh
+!README.md
