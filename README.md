@@ -14,3 +14,13 @@ curl -fsSL https://raw.githubusercontent.com/BosEriko/chatty/HEAD/install.sh | s
 ```
 
 _Note: Chatty files are usually located at %userprofile%/scoop/apps/chatty/current._
+
+## Enable Sounds on Chat
+To enable sound when someone chats on Twitch go to `Settings` > `Window` > `Notifications` and add notification for both `BosErikoCodes` and `BosErikoPlays` with the following setting:
+- Event: Chat Message
+- Own messages as well
+- Desktop Notification Status: Off
+- Message Status: Off
+- Sound Status: Always Enabled
+- Sound file: tuturu.wav
+- Sound Cooldown: 0s
