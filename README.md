@@ -22,4 +22,4 @@ To enable sound when someone chats on Twitch go to `Settings` > `Window` > `Noti
 - Message Status: Off
 - Sound Status: Always Enabled
 - Sound file: tuturu.wav
-- Sound Cooldown: 10s
+- Sound Cooldown: 30s
